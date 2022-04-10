@@ -1,5 +1,3 @@
-
-
 # 机械电子工程专业
 
 ## SCUT
@@ -10,9 +8,12 @@
 
 ### 大三上
 
-- [热工基础-传热学](https://github.com/dzylikecode/SCUT_3_Heat)
-- [机械原理](https://github.com/dzylikecode/SCUT_3_Principles-of-Mechanism)
-- [数电](https://github.com/dzylikecode/SCUT_3_Digital-Circuitry)
+- [工程热力学](./summary/工程热力学.md)
+- [传热学](./summary/传热学.md)
+- [工程材料](./summary/工程材料.md)
+- [互换性与测量技术](./summary/互换性与测量技术.md)
+- [机械原理](./summary/机械原理.md)
+- [数字电子技术](./summary/数字电子技术基础.md)
 - [自控原理](https://github.com/dzylikecode/SCUT_3_Auto-Control)
 
 ### 大三下
