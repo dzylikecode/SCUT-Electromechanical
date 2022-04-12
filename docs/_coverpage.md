@@ -5,3 +5,4 @@
 <!-- 需要一个 slogan -->
 
 [Github](https://github.com//dzylikecode/SCUT-Electromechanical/)
+[进入](./)
