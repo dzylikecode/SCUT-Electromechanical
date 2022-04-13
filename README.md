@@ -4,6 +4,8 @@
     - [大三上](#大三上)
     - [大三下](#大三下)
   - [reference](#reference)
+    - [资料参考](#资料参考)
+    - [博客参考](#博客参考)
 
 # 机械电子工程专业
 
@@ -33,6 +35,8 @@
 
 ## reference
 
+### 资料参考
+
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [libpku - 贵校课程资料民间整理](https://github.com/lib-pku/libpku)
 - [北大计算机课程大作业](https://github.com/tongtzeho/PKUCourse)
@@ -41,3 +45,8 @@
 - [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 - [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
+
+### 博客参考
+
+- [侠客岛](https://github.com/bytesfly/island)
+- [Awesome Docsify](https://github.com/docsifyjs/awesome-docsify)
