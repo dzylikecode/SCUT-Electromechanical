@@ -1,0 +1,1 @@
+- [Docsify PDF Embed Plugin](https://github.com/lazypanda10117/docsify-pdf-embed)
