@@ -7,3 +7,5 @@
   - [互换性与测量技术](./summary/互换性与测量技术.md)
   - [机械原理](./summary/机械原理.md)
   - [数电](./summary/数字电子技术基础.md)
+- 大三下
+  - [机械制造基础](https://dzylikecode.github.io/SCUT_3_Mechanical-Manufacturing-Fundamentals/#/)
