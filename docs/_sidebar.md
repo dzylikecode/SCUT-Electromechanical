@@ -9,3 +9,4 @@
   - [数电](./summary/数字电子技术基础.md)
 - 大三下
   - [机械制造基础](https://dzylikecode.github.io/SCUT_3_Mechanical-Manufacturing-Fundamentals/#/)
+  - [测试技术与信号处理](https://dzylikecode.github.io/SCUT_3_Test-Technology-and-Signal-Processing/#/)
