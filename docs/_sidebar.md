@@ -10,4 +10,4 @@
 - 大三下
   - [机械制造基础](https://dzylikecode.github.io/SCUT_3_Mechanical-Manufacturing-Fundamentals/#/)
   - [测试技术与信号处理](https://dzylikecode.github.io/SCUT_3_Test-Technology-and-Signal-Processing/#/)
-  - [自动控制原理](https://dzylikecode.github.io/SCUT_3_Auto-Control/)
+  - [自动控制原理](./summary/自动控制原理.md)
