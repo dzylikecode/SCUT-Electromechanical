@@ -1,6 +1,8 @@
 
 # 机械电子工程专业
 
+在线浏览：https://dzylikecode.github.io/SCUT-Electromechanical/
+
 ## SCUT
 
 ### 大二上
