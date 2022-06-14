@@ -12,3 +12,6 @@
   - [测试技术与信号处理](https://dzylikecode.github.io/SCUT_3_Test-Technology-and-Signal-Processing/#/)
   - [自动控制原理](./summary/自动控制原理.md)
   - [机械设计](./summary/机械设计.md)
+  - 机械制造技术基础
+    - [速览](./summary/FOMMT.md)
+    - [分章内容](https://dzylikecode.github.io/SCUT_3_Mechanical-Manufacturing-Fundamentals/)
