@@ -1,1 +1,3 @@
 - [Docsify PDF Embed Plugin](https://github.com/lazypanda10117/docsify-pdf-embed)
+- [docsify-mindmap](https://github.com/up9cloud/docsify-mindmap)
+- [markmap](https://github.com/dundalek/markmap)

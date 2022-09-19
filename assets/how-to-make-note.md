@@ -6,6 +6,10 @@
 
 ## pattern
 
+- 层次
+- 接口
+- 结构 - 接口
+
 ### pattern-1
 
 - 上课时, 记录关键字
@@ -14,4 +18,4 @@
 
 ## reference
 
-- [手写笔记101：我是这样做笔记的](https://zhuanlan.zhihu.com/p/28606018)
+- [手写笔记 101：我是这样做笔记的](https://zhuanlan.zhihu.com/p/28606018)
