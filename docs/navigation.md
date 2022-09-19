@@ -1,0 +1,8 @@
+- [home](https://dzylikecode.github.io/#/)
+- [official](https://www.scut.edu.cn/new/)
+- [intro](/)
+- [大一](01-freshman/)
+- [大二](02-sophomore/)
+- [大三](03-junior/)
+- [大四](04-senior/)
+- [选修课](elective/)

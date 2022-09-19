@@ -1,6 +1,6 @@
 # 机械电子工程专业
 
-- [在线预览](https://dzylikecode.github.io/SCUT-Electromechanical/#/)
+- online docs: https://dzylikecode.github.io/SCUT-electromechanical/#/
 
 ## SCUT
 
@@ -37,8 +37,3 @@
 - [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 - [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
-
-### 博客参考
-
-- [侠客岛](https://github.com/bytesfly/island)
-- [Awesome Docsify](https://github.com/docsifyjs/awesome-docsify)
