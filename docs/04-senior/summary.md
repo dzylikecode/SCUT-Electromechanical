@@ -1,1 +1,1 @@
-- [机电传动控制](https://dzylikecode.github.io/SCUT-electromechanical-drive-control/#/)
+- [机电传动控制](https://dzylikecode.github.io/SCUT-Electromechanical-Drive-Control/#/)

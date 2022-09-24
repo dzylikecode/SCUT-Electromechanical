@@ -1,6 +1,6 @@
 # 机械电子工程专业
 
-- online docs: https://dzylikecode.github.io/SCUT-electromechanical/#/
+- online docs: https://dzylikecode.github.io/SCUT-Electromechanical/#/
 
 ## SCUT
 

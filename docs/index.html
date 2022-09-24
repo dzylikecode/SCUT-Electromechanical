@@ -67,7 +67,7 @@
 
       window.$docsify = {
         name: "目录", // 目录的标题
-        repo: "https://github.com/dzylikecode/SCUT-electromechanical", // 右上角的挂件
+        repo: "https://github.com/dzylikecode/SCUT-Electromechanical", // 右上角的挂件
         loadNavbar: "navigation.md",
         loadSidebar: "summary.md",
         alias: {
@@ -93,7 +93,7 @@
           function (hook, vm) {
             hook.beforeEach(function (html) {
               let url =
-                "https://github.com/dzylikecode/SCUT-electromechanical/tree/master/docs/" +
+                "https://github.com/dzylikecode/SCUT-Electromechanical/blob/master/docs/" +
                 vm.route.file;
               let editHtml = "[:memo: EDIT DOCUMENT](" + url + ")\n";
               return (
