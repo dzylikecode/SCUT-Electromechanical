@@ -15,3 +15,4 @@
   - 机械制造技术基础
     - [速览](./summary/FOMMT.md)
     - [分章内容](https://dzylikecode.github.io/SCUT_3_Mechanical-Manufacturing-Fundamentals/)
+  - [数控技术](./summary/CNC.md)
